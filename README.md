@@ -48,4 +48,4 @@ act -j build-and-deploy
 The project is automatically deployed to GitHub Pages via GitHub Actions on every push to the `main` branch.
 
 ## License
-MIT
+MIT 
